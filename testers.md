@@ -7,3 +7,4 @@ Alpha Testers
 - Tomser9876 aka Tom
 - Rupesta (fixed the VeinMine issue)
 - dalviosia
+- XxZerekEXx AKA Zerek

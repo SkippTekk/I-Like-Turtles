@@ -8,3 +8,4 @@ Alpha Testers
 - Rupesta (fixed the VeinMine issue)
 - dalviosia
 - XxZerekEXx AKA Zerek
+- Shadows_Assassin

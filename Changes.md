@@ -1,3 +1,6 @@
+2-25-2015 V1.3 
+- Added Mob dimemberment and Amputation. MAY THE LIMBS FLY!
+
 2-25-2015 V1.2 (released)
 - Added Botania
 - Added Biomes Of Plenty
@@ -6,7 +9,6 @@
 - Added Baubles due to Library issues.
 - Added Roguelike Dungeons
 - Added Iron Chests
-- Added Mob dimemberment and Amputation. MAY THE LIMBS FLY!
 
 2-24-2015 V1.1 (removed)
 - Edited VeinMine... Happy Veining :)

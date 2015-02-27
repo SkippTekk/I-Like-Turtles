@@ -1,3 +1,13 @@
+2-26-2015 V1.4
+ 
+ - Configs
+ - Dissabled ALL Red and Dark Matter, EXCEPT furnaces.
+ - Dissabled Lycanite but there still spawning GRRR
+ 
+  Jars Information
+- Added Minetweaker 3
+- Added Lycanite Mobs
+
 2-25-2015 V1.3 
 - Added Mob dimemberment and Amputation. MAY THE LIMBS FLY!
 

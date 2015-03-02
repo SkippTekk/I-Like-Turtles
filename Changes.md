@@ -1,3 +1,6 @@
+3-1-2015
+ - Moved the Official support to the new forums. it will be in the client to find the link.
+
 2-26-2015 V1.4
  
  - Configs
